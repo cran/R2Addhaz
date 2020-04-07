@@ -1,0 +1,3 @@
+export(R2addhaz)
+importFrom(Rdpack,reprompt)
+importFrom("stats", "coef", "predict")
